@@ -1,4 +1,4 @@
-# mdo/feedback
+# freekrai/feedback
 
 This is a quick little ask-me-anything type of repository. It is forked from 
 [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
